@@ -2,9 +2,9 @@ body{
     background-size: cover;
     background-position: center;
 }
-
+ 
 .heading{
-    font-size: 23px;
+    font-size: 25px;
     width: 100%;
     margin: 0px;
 }
@@ -20,4 +20,13 @@ body{
 a{
     font-size: 24px;
     color: black;
+}
+
+#back{
+    height: 30px;
+    width: 75px;
+    font-size: 18px;
+    background-color: lightblue;
+    margin-right: 2000px;   
+    border-radius: 20px;
 }
